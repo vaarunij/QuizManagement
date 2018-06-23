@@ -1,0 +1,128 @@
+body{
+	margin: 0 1% !important;
+	padding: 10px !important;
+}
+#header{
+	width: 100%;
+	background-color: SkyBlue;
+	padding: 50px 70px;
+}
+
+#header h1{
+	font: 600 1.5em/1 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+#login{
+	width: 885px;
+    background-color: #eceeef;
+    padding: 100px 85px;
+    
+    margin: auto;
+    border-radius: 10px;
+}
+
+#login h1{
+	font: 600 1.5em/1 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+
+#btnn{
+	background-color: #4CAF50;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition-duration: 0.2s;
+}
+
+
+#submit{
+	margin: 4px 2px;
+}
+
+
+#submit a{
+	margin-left: 10px;
+}
+
+table {
+	color: rgba(0,0,0,.5);
+}
+
+tr {
+	border-radius: 10px;
+	background: #efefef;
+}
+
+#text-info {
+	font: 600 1.5em/1 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+h1{
+	font: 600 1.5em/1 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+form {
+	margin-top: 20px;
+	width: 780px;
+    background-color: #eceeef;
+    padding: 10px 15px;
+    height: 600px;
+    margin: auto;
+    border-radius: 10px;
+	
+}
+
+.txt {
+	margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 185px;
+}
+
+.txt2 {
+	margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+tr {
+	 border: 1px solid black;	
+}
+
+td{
+	 border: 1px solid black;
+}
